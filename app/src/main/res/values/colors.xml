@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#60AA14</color>
+    <color name="colorPrimaryDark">#3B7511</color>
+    <color name="colorAccent">#DD2E1F</color>
+    <color name="white">#ffffff</color>
+
+    <color name="projectBackgroundColor1">#68C7EC</color>
+    <color name="projectBackgroundColor2">#BFABE6</color>
+    <color name="projectBackgroundColor3">#F59890</color>
+    <color name="projectBackgroundColor4">#F7B26A</color>
+    <color name="projectBackgroundColor5">#69CDCF</color>
+    <color name="projectBackgroundColor6">#F7D56B</color>
+    <color name="projectBackgroundColor7">#F99ACA</color>
+    <color name="projectBackgroundColor8">#AED677</color>
+    <color name="projectBackgroundColor9">#B6B9BC</color>
+</resources>

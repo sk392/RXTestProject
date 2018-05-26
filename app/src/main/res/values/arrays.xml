@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="projectBackgroundColors">
+        <item>@color/projectBackgroundColor1</item>
+        <item>@color/projectBackgroundColor2</item>
+        <item>@color/projectBackgroundColor3</item>
+        <item>@color/projectBackgroundColor4</item>
+        <item>@color/projectBackgroundColor5</item>
+        <item>@color/projectBackgroundColor6</item>
+        <item>@color/projectBackgroundColor7</item>
+        <item>@color/projectBackgroundColor8</item>
+        <item>@color/projectBackgroundColor9</item>
+    </array>
+</resources>
